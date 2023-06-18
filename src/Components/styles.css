@@ -1,0 +1,136 @@
+#one{
+background-color: transparent;
+width: 45px;
+height: 144px;
+z-index: 5;
+}
+#two{
+    background-color: transparent;
+    width: 45px;
+    height: 144px;
+    z-index: 5;
+
+}
+#three{
+    background-color: transparent;
+    width: 45px;
+    height: 144px;
+    z-index: 5;
+
+}
+#four{
+    background-color: transparent;
+    width: 45px;
+    height: 144px;
+    z-index: 5;
+
+}
+.show{
+    display: flex;
+    position: absolute;
+    height: 10px;
+}
+.shwbtn{
+    position: absolute;
+    background-color: orangered;
+    height: 3px;
+    width: 40px;
+    top: 135px;
+    border-radius: 100px;
+    padding-left: 5px;
+}
+.shwbtn1{
+    position: absolute;
+    background-color: rgb(255, 255, 255);
+    height: 3px;
+    width: 40px;
+    top: 135px;
+    border-radius: 100px;
+    padding-left: 5px;
+}
+.on{
+    /* position: absolute; */
+    /* background-color: orangered; */
+    height: 10px;
+    width: 45px;
+    top: 135px;
+}
+.tw{
+    /* background-color: orangered; */
+    height: 10px;
+    width: 45px;
+    top: 135px;
+}
+.th{
+    /* background-color: orangered; */
+    height: 10px;
+    width: 45px;
+    top: 135px;
+}
+.fo{
+    /* background-color: orangered; */
+    height: 10px;
+    width: 45px;
+    top: 135px;
+}
+
+.green{
+    background-color: green;
+    color: white;
+font-size: smaller;
+    height: 20px;
+width: 41px;
+/* left: 0px;
+top: 0px; */
+padding-left: 5px;
+padding-top: 2px;
+border-radius: 100px;
+font-weight: 600;
+/* padding: 3px 8px 3px 8px; */
+
+}
+.sel{
+    height: 24px;
+width: 24px;
+left: 0px;
+top: 0px;
+border-radius: 12px;
+
+}
+.loc{
+    position: absolute;
+    left: 1050px;
+    color: gray;
+    font-size: small;
+}
+.cur{
+    position: absolute;
+    left: 1100px;
+    margin-top: 50px;
+    width: 100px;
+    height: 5px;
+}
+.count{
+    background-color: black;
+
+    z-index: 5;
+}
+#shhh{
+    position: absolute;
+    padding-left: 47px;
+    padding-top: 70px;
+    background-color: rgba(0, 0, 0, 0.593);
+    /* background-color: white; */
+    color: white;
+    height: 150px;
+width: 180px;
+z-index: 2;
+border-radius: 8px;
+
+}
+.imsvg{position: absolute;
+    z-index: 9;
+    left: 40px;
+    margin-top: 20px;
+    
+}
